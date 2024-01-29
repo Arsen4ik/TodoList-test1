@@ -13,5 +13,5 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
   },
-  publicPath: 'TodoList-vue-test1'
+  publicPath: 'TodoList-test1'
 })
